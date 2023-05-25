@@ -8,6 +8,6 @@ This is a project that I did at the end of the IBM Data Sciecne Professionnal Ce
 * Algorithms used: Logistic regression, SVM, decision tree and KNN.
 
 
-[Project 2: Deep Neural Network For Energy Efficiency Prediction Model]([https://github.com/EdAkh/Applied-Data-Science-Capstone](https://github.com/EdAkh/DNN_Energy_Efficiency_Model))
+[Project 2: Deep Neural Network For Energy Efficiency Prediction Model](https://github.com/EdAkh/DNN_Energy_Efficiency_Model)
 
 In this project 
