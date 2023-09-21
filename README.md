@@ -22,4 +22,4 @@ In this project, I tried to work on a subject link to my old job and its my firs
 This is a project that I did at the end of the IBM Data Sciecne Professionnal Certificate.
 * The data was collected from the SpaceX API and with webscraping on Wikipedia.
 * Folium and Dash were used to analyze which launchsites were the most successful and for which payload.
-* Algorithms used: Logistic regression, SVM, decision tree and KNN.
+* Algorithms used: Logistic regression, SVM, Decision tree and KNN.
