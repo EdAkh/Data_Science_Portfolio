@@ -282,6 +282,7 @@
 .navbar {
     overflow: hidden;
     background-color: #333;
+    width: 100%;
   }
   
 
@@ -298,6 +299,10 @@
   background-color: #ddd;
   color: black;
  }
+
+.navbar a.right {
+  float: right;
+}
 
 .row {
     display: -ms-flexbox;
@@ -695,7 +700,7 @@ kbd {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 700px) {
     body {
         font-size:14px
     }
