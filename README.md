@@ -1,6 +1,3 @@
-# Data Scientist
-
-## Personal Projects
 [Project 3: PPE Detection Web Application](https://github.com/EdAkh/PPE-Detection).
 
 Computer vision project were the goal is to create a model capable to detect personal protective equipement on construction and industrial workers.
