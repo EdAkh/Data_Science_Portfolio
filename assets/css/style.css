@@ -676,7 +676,7 @@ html, body {
 }
 
 hr.solid {
-  border-top: 3px solid #bbb;
+  border-top: 1px solid #bbb;
 }
 
 @media screen and (max-width: 992px) {
