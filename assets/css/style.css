@@ -675,6 +675,10 @@ html, body {
     width: 100vw;
 }
 
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
 @media screen and (max-width: 992px) {
     img {
         max-width:100%
