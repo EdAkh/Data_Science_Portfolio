@@ -553,7 +553,7 @@ kbd {
 }
 
 #header_wrap .inner {
-    padding: 50px 10px 30px 10px
+    padding: 50px 10px 0px 10px
 }
 
 #project_title {
@@ -648,6 +648,16 @@ kbd {
 
 .navbar a.right {
   float: right;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .page-body {
+  padding-top: 60px;
 }
 
 #top-button {
